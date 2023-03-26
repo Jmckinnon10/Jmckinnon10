@@ -10,7 +10,7 @@ Full-Stack developer that is ambitious to learn and grow in this incredible fiel
 *   🖥️  See my portfolio at [John's Website](http://johns-portfolio.s3.amazonaws.com/index.html)
 *   ✉️  You can contact me at [johnmckinnon23@yahoo.com](mailto:johnmckinnon23@yahoo.com)
 *   🧠  I'm learning Serverless-architecture
-*   
+ 
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
