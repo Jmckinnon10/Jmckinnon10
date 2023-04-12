@@ -19,9 +19,10 @@ Full-Stack developer that is ambitious to learn and grow in this incredible fiel
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg" width="36" height="36" alt="Lambda" /></a>
-<a rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width="36" height="36" alt="PostgreSQL" /></a>
-<a rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-cloudformation.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width="36" height="36" alt="DynamoDB" /></a>
+<a rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" width="36" height="36" alt="S3" /></a>
+<a rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-cloudformation.svg" width="36" height="36" alt="CloudFormation" /></a>
+<a rel="noreferrer"><img src="https://ih1.redbubble.net/image.1599940690.1956/st,small,507x507-pad,600x600,f8f8f8.jpg" width="36" height="36" alt="Terraform" /></a>
 </p>
                     
 
